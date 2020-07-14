@@ -3,7 +3,7 @@
 # Author: sirpdboy
 # https://github.com/sirpdboy/Openwrt
 
-name: Sirpdboy-OpenWrt-Lean-ipv6-CI
+name: Sirpdboy-OpenWrt-Lean-ipv6
 on:
   push:
     branches: 
